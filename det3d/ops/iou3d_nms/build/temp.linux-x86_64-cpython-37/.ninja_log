@@ -1,0 +1,5 @@
+# ninja log v5
+0	1431	1709372282939741502	/home/wyk/How2comm/centerformer/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-37/src/iou3d_nms_kernel.o	47371e926936992b
+0	14704	1709372296201120718	/home/wyk/How2comm/centerformer/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-37/src/iou3d_cpu.o	ef80cecab6df6ae0
+0	14799	1709372296297130835	/home/wyk/How2comm/centerformer/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-37/src/iou3d_nms.o	f1bcfb6b49fb1c13
+0	14866	1709372296369138423	/home/wyk/How2comm/centerformer/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-37/src/iou3d_nms_api.o	a4d0494150b63a30

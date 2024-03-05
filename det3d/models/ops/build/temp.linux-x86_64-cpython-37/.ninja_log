@@ -1,0 +1,4 @@
+# ninja log v5
+1	3285	1709372325334248800	/home/wyk/How2comm/centerformer/det3d/models/ops/build/temp.linux-x86_64-cpython-37/home/wyk/How2comm/centerformer/det3d/models/ops/src/cpu/ms_deform_attn_cpu.o	e14175c7089cee2b
+1	9684	1709372331737644756	/home/wyk/How2comm/centerformer/det3d/models/ops/build/temp.linux-x86_64-cpython-37/home/wyk/How2comm/centerformer/det3d/models/ops/src/cuda/ms_deform_attn_cuda.o	6981cf27566fb8a7
+1	13275	1709372335321331944	/home/wyk/How2comm/centerformer/det3d/models/ops/build/temp.linux-x86_64-cpython-37/home/wyk/How2comm/centerformer/det3d/models/ops/src/vision.o	a2e86a198692f182
